@@ -10,7 +10,7 @@
 <div>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8E35DE&height=120&section=header"/>
     <a href="https://git.io/typing-svg">
-        <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=8E35DE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Sofia+Palma;I'm+20+years+old;I'm+from+Brazil;I'm+a+Front-End+developer;Be+Welcome!+:%29"/>
+        <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=8E35DE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Sofia+Palma;I'm+20+years+old;I'm+from+Brazil;I'm+a+Front-End+developer;+Welcome!+:%29"/>
     </a>
 </div>
 
